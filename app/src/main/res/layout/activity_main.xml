@@ -13,7 +13,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Forza Tuner"
+        android:text="@string/title_view"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:id="@+id/title_view"
@@ -30,7 +30,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Front Percentage"
+        android:text="@string/front_percentage"
         android:id="@+id/front_percentage"
         android:layout_below="@+id/title_view"
         android:layout_alignParentLeft="true"
@@ -40,7 +40,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Soft Spring"
+        android:text="@string/softest_spring"
         android:id="@+id/softest_spring"
         android:layout_below="@+id/front_percentage_input"
         android:layout_alignParentLeft="true"
@@ -57,7 +57,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hard Spring"
+        android:text="@string/hardest_spring"
         android:id="@+id/hardest_spring"
         android:layout_below="@+id/softest_spring_input"
         android:layout_alignParentLeft="true"
@@ -74,7 +74,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Front Anti-Rollbars"
+        android:text="@string/front_rollbar"
         android:id="@+id/front_rollbar"
         android:layout_below="@+id/hardest_spring_input"
         android:layout_alignParentLeft="true"
@@ -91,7 +91,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Rear Anti-Rollbars"
+        android:text="@string/rear_rollbar"
         android:id="@+id/rear_rollbar"
         android:layout_below="@+id/front_rollbar_display"
         android:layout_alignParentLeft="true"
@@ -108,7 +108,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Front Springs"
+        android:text="@string/front_spring"
         android:id="@+id/front_spring"
         android:layout_below="@+id/rear_rollbar_display"
         android:layout_alignParentLeft="true"
@@ -125,7 +125,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Rear Springs"
+        android:text="@string/rear_spring"
         android:id="@+id/rear_spring"
         android:layout_below="@+id/front_spring_display"
         android:layout_alignParentLeft="true"
@@ -142,7 +142,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Front Rebound Stiffness"
+        android:text="@string/front_rebound"
         android:id="@+id/front_rebound"
         android:layout_below="@+id/rear_spring_display"
         android:layout_alignParentLeft="true"
@@ -159,7 +159,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Rear Rebound Stiffness"
+        android:text="@string/rear_rebound"
         android:id="@+id/rear_rebound"
         android:layout_below="@+id/front_rebound_display"
         android:layout_alignParentLeft="true"

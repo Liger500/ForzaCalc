@@ -1,0 +1,32 @@
+Naming Convention
+	android ids
+	variable names
+	
+To-do List
+	Look up text input
+	
+Color Palette?
+Splash Screen
+	Just for when the app opens and is loading the Title Screen
+	Something about an engine and tuning algorithms
+Title Screen
+	A car being put together would look awesome
+	A start button
+	A music button that links to pandora or something would be funny
+Main Screen
+	All the options
+
+Features
+	Tunes
+		High RPM
+		Top Speed
+		Balanced
+	Weather
+		Rain
+		Sun
+		Specific track temperatures
+	Save tunes
+	See if there's a way to integrate with the game...
+		Import tunes
+		Export tunes
+		Copy tunes

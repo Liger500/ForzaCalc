@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">ForzaCalc</string>
+    <string name="title_view">Forza Tuner</string>
+    <string name="front_percentage">Front Percentage</string>
+    <string name="softest_spring">Soft Spring</string>
+    <string name="hardest_spring">Hard Spring</string>
+    <string name="front_rollbar">New Front Anti-Rollbars</string>
+    <string name="rear_rollbar">New Rear Anti-Rollbars</string>
+    <string name="front_spring">New Front Spring</string>
+    <string name="rear_spring">New Rear Spring</string>
+    <string name="front_rebound">New Front Rebound Stiffness</string>
+    <string name="rear_rebound">New Rear Rebound Stiffness</string>
 </resources>
